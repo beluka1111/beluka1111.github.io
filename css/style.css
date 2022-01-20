@@ -4,7 +4,7 @@ div{
 
 m{
     font-size: 23px;
-    color: royalblue;
+    color: green;
 }
 hh{
     font-size: 23px;
@@ -12,4 +12,49 @@ hh{
 }
 f{
     color:red;
+}
+
+body{
+    font-family: fantasy;
+}
+
+a{
+    color: red;
+}
+h1{
+    text-align: center;
+}
+.one{
+    text-align: center;
+}
+.two{
+    text-align: center;
+}
+.tri{
+    text-align: center;
+}
+
+.block{
+    background: url('../image/external-content.duckduckgo.com.jpg');
+    background-position: center;
+    
+
+    height: 500px;
+    border-radius: 40px;
+    box-shadow: 0 0 10px black ;
+}
+    
+span{
+    color: blanchedalmond;
+}
+
+h1{
+    color: burlywood;
+}
+h2{
+    color: burlywood;
+}
+
+.ds{
+    color: rgb(16, 141, 190);
 }
